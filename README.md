@@ -1,101 +1,83 @@
-<h1 align="center">
-Hi 👋 I'm Sumit Kumar
-</h1>
-
-<h3 align="center">
-Backend Software Engineer • Go • Distributed Systems • GenAI
-</h3>
+<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 
 <p align="center">
-Building scalable cloud-native systems for AI-powered applications.
+Backend Software Engineer building scalable cloud-native systems and AI-powered applications.
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Engineer;Go+Developer;Distributed+Systems;Microservices;AWS+%7C+Kubernetes;Generative+AI+Applications" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&color=58A6FF&lines=Backend+Engineer;Go+Developer;Distributed+Systems;Cloud+Native;Generative+AI;AWS+%7C+Kubernetes" />
 </p>
 
 ---
 
-# 👨🏻‍💻 About Me
+## 👨‍💻 About Me
 
 - 🚀 Software Development Engineer II @ **Amagi**
-- ⚡ Backend Engineer with **3+ years** of experience
-- 🏗 Building highly scalable backend services using **Go**
-- 🤖 Working on **GenAI**, **LLMs**, **RAG**, and **Media Intelligence**
-- ☁️ AWS • Kubernetes • Docker • Kafka
+- 💻 Building backend systems using **Go**
+- ☁️ Cloud-native development with **AWS**, **Kubernetes**, and **Docker**
+- 🤖 Building **LLM**, **RAG**, and **AI Agent** applications
+- ⚡ Passionate about distributed systems, performance, and system design
 - 📍 Bengaluru, India
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=go,python,cpp,aws,docker,kubernetes,postgres,redis,kafka,linux,git,github,vscode"/>
-
-</p>
+`Go` • `Python` • `C++`
 
 ### Backend
 
-- Go
-- Echo
-- REST APIs
-- OpenAPI
-- PostgreSQL
-- Redis
-- Kafka
+`Go` • `REST APIs` • `Echo` • `PostgreSQL` • `Redis` • `Kafka`
+
+### Cloud & DevOps
+
+`AWS` • `Docker` • `Kubernetes` • `Helm` • `GitHub Actions`
 
 ### AI
 
-- OpenAI
-- LangChain
-- LangGraph
-- MCP
-- ChromaDB
-- RAG
+`OpenAI` • `Claude` • `Gemini` • `LangChain` • `LangGraph` • `MCP` • `ChromaDB` • `RAG`
 
-### Cloud
+### AI Developer Tools
 
-- AWS
-- Kubernetes
-- Docker
-- Helm
-- GitHub Actions
+- Claude Code
+- OpenCode
+- OpenAI Codex CLI
+- GitHub Copilot
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## MIRAGE
+### 🎯 MIRAGE
 
-AI-powered Media Intelligence Platform supporting
+AI-powered Media Intelligence Platform
 
 - Live Sports
 - Live News
-- VOD
-- AI Generation
+- Video-on-Demand
+- AI-powered Content Generation
 
 **Stack**
 
-Go • Kubernetes • Kafka • AWS • Argo Workflows
+Go • Kafka • Kubernetes • AWS • Argo Workflows
 
 ---
 
-## Go Tornado
+### ⚙️ Go Tornado
 
 Cloud-native Workflow Orchestration Platform
 
 **Stack**
 
-Go • PostgreSQL • Echo • Docker
+Go • Echo • PostgreSQL • Docker
 
 ---
 
-## RAG Text-to-SQL
+### 🤖 RAG Text-to-SQL
 
-Natural Language → SQL using OpenAI
+Natural Language to SQL using LLMs
 
 **Stack**
 
@@ -103,7 +85,7 @@ Python • FastAPI • LangChain • ChromaDB
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -115,43 +97,16 @@ Python • FastAPI • LangChain • ChromaDB
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitk-11&theme=github-dark"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumitk-11&theme=algolia&no-frame=true&column=4"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sumitk-11/sumitk-11/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Distributed Systems
-- Agentic AI
 - High Performance Go
+- Agentic AI
+- Kubernetes Internals
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect
 
 <p align="left">
 
@@ -169,6 +124,12 @@ Python • FastAPI • LangChain • ChromaDB
 
 <p align="center">
 
-⭐ Thanks for visiting!
+<img src="https://raw.githubusercontent.com/sumitk-11/sumitk-11/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting!
 </p>
