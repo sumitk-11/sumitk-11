@@ -135,11 +135,18 @@ Python • FastAPI • LangChain • ChromaDB
 
 ---
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sumitk-11/sumitk-11/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
 # 🌱 Currently Learning
 
 - Distributed Systems
 - Agentic AI
-- Platform Engineering
 - High Performance Go
 
 ---
