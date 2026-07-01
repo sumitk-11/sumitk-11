@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 
 <p align="center">
-Backend Software Engineer building scalable cloud-native systems and AI-powered applications.
+Backend Software Engineer • Go • Distributed Systems • Generative AI
+</p>
+
+<p align="center">
+Building scalable cloud-native systems and AI-powered applications.
 </p>
 
 <p align="center">
@@ -13,33 +17,51 @@ Backend Software Engineer building scalable cloud-native systems and AI-powered 
 ## 👨‍💻 About Me
 
 - 🚀 Software Development Engineer II @ **Amagi**
-- 💻 Building backend systems using **Go**
-- ☁️ Cloud-native development with **AWS**, **Kubernetes**, and **Docker**
-- 🤖 Building **LLM**, **RAG**, and **AI Agent** applications
-- ⚡ Passionate about distributed systems, performance, and system design
+- 💻 Backend Engineer with **3+ years** of experience
+- ⚙️ Building scalable backend systems in **Go**
+- 🤖 Developing **LLM**, **RAG**, and **Agentic AI** applications
+- ☁️ Experienced with **AWS**, **Kubernetes**, **Docker**, and **Kafka**
 - 📍 Bengaluru, India
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
-`Go` • `Python` • `C++`
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,python,cpp,aws,docker,kubernetes,postgres,redis,kafka,linux,git,github,vscode" />
+</p>
 
 ### Backend
 
-`Go` • `REST APIs` • `Echo` • `PostgreSQL` • `Redis` • `Kafka`
-
-### Cloud & DevOps
-
-`AWS` • `Docker` • `Kubernetes` • `Helm` • `GitHub Actions`
+- Go
+- REST APIs
+- Echo
+- PostgreSQL
+- Redis
+- Kafka
 
 ### AI
 
-`OpenAI` • `Claude` • `Gemini` • `LangChain` • `LangGraph` • `MCP` • `ChromaDB` • `RAG`
+- OpenAI
+- Claude
+- Gemini
+- LangChain
+- LangGraph
+- MCP
+- ChromaDB
+- RAG
 
-### AI Developer Tools
+### Cloud
+
+- AWS
+- Kubernetes
+- Docker
+- Helm
+- GitHub Actions
+
+---
+
+## 🤖 AI Developer Tools
 
 - Claude Code
 - OpenCode
@@ -52,48 +74,25 @@ Backend Software Engineer building scalable cloud-native systems and AI-powered 
 
 ### 🎯 MIRAGE
 
-AI-powered Media Intelligence Platform
+AI-powered media intelligence platform supporting live sports, live news, VOD processing, and AI-generated content.
 
-- Live Sports
-- Live News
-- Video-on-Demand
-- AI-powered Content Generation
-
-**Stack**
-
-Go • Kafka • Kubernetes • AWS • Argo Workflows
+**Tech:** Go • Kafka • Kubernetes • AWS • Argo Workflows
 
 ---
 
 ### ⚙️ Go Tornado
 
-Cloud-native Workflow Orchestration Platform
+Cloud-native workflow orchestration platform built for scalable backend services.
 
-**Stack**
-
-Go • Echo • PostgreSQL • Docker
+**Tech:** Go • Echo • PostgreSQL • Docker
 
 ---
 
 ### 🤖 RAG Text-to-SQL
 
-Natural Language to SQL using LLMs
+Natural language to SQL using LLMs and Retrieval-Augmented Generation.
 
-**Stack**
-
-Python • FastAPI • LangChain • ChromaDB
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumitk-11&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitk-11&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+**Tech:** Python • FastAPI • LangChain • ChromaDB
 
 ---
 
@@ -102,7 +101,17 @@ Python • FastAPI • LangChain • ChromaDB
 - Distributed Systems
 - High Performance Go
 - Agentic AI
-- Kubernetes Internals
+- Databases Internals
+
+---
+
+## 💡 Interests
+
+- Backend Architecture
+- Distributed Systems
+- Cloud Native Development
+- AI Infrastructure
+- Performance Engineering
 
 ---
 
@@ -123,13 +132,5 @@ Python • FastAPI • LangChain • ChromaDB
 ---
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/sumitk-11/sumitk-11/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting!
+<i>"Building reliable systems, one service at a time."</i>
 </p>
